@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <string name="app_name">Registrasi</string>
+        <string name="frm_name">Nama</string>
+        <string name="register">Isilah form dibawah ini </string>
+        <string name="password">Kata sandi</string>
+        <string name="phone_number">No Telepon</string>
+        <string name="terms">saya telah membaca dan setuju dengan ketentuan</string>
+        <string name="btnset">Atur bahasa</string>
+
+</resources>
